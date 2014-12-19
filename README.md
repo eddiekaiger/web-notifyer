@@ -2,15 +2,14 @@
 
 This is a small Node.js program you can run if you're ever eager to see an update on a static web page.
 
-Preparation: 
+**Preparation**: 
 
-npm install --save node-notifier
+`npm install --save node-notifier`
+`npm install require`
 
-npm install require
+**Run**:
 
-Run:
-
-node notifyer.js
+`node notifyer.js`
 
 You'll get a native notification once any changes are seen on the web page.
 
