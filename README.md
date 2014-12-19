@@ -5,6 +5,7 @@ This is a small Node.js program you can run if you're ever eager to see an updat
 Preparation: 
 
 npm install --save node-notifier
+
 npm install require
 
 Run:
