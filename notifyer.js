@@ -39,7 +39,7 @@ setInterval(function() {
 	  }
 	});
 
-}, 5000)	// 5 second interval
+}, 10000)	// 10 second interval
 
 function notify() {
 	// Send native notification
